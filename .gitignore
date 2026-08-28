@@ -1,0 +1,6 @@
+node_modules/
+ctrf/
+data/testing.db3
+coverage/
+*.log
+.env
